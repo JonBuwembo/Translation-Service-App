@@ -1,9 +1,9 @@
-Translate-Service-App 
+# Translate-Service-App 
 
-This Translation App is a powerful and user-friendly translation web application that allows users to 
+*This Translation App is a powerful and user-friendly translation web application that allows users to 
 translate text between multiple languages. It supports real-time translation, language detection, and 
 the ability to save and manage translation tasks. This app aims to provide accurate and fast translations 
-to help users overcome language barriers.
+to help users overcome language barriers.* 
 
 Features
 
